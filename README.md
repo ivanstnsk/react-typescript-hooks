@@ -5,6 +5,7 @@ A collection of React Hooks in Typescript
   <img width="350" src="./logo.png">
 </p>
 
+## Mouse
 * [useMouseScroll](https://gist.github.com/ivanstnsk/e775d28ebd0dff06981cc7b65e2238d9)
 ```ts
 // Example of usage
@@ -29,6 +30,7 @@ return (
 );
 ```
 
+## Window
 * [useWindowResize](https://gist.github.com/ivanstnsk/c3ba1edf00d07fab9afa3f61a95193a8)
 ```ts
 // Example of usage
