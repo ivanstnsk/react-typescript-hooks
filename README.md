@@ -2,7 +2,7 @@
 A collection of React Hooks in Typescript
 
 <p align="center">
-  <img width="562" height="245" src="./logo.png">
+  <img width="350" src="./logo.png">
 </p>
 
 * [useMouseScroll](https://gist.github.com/ivanstnsk/e775d28ebd0dff06981cc7b65e2238d9)
