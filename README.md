@@ -36,3 +36,9 @@ return (
 // Example of usage
 const [width, height] = useWindowResize(); 
 ```
+
+## ! React Native
+* [useAndroidPermissions](https://gist.github.com/ivanstnsk/4ff5bd5f1fd3c7294ebe5c365fdf48a4)
+```ts
+// Example of usage
+// const [waitingPerm, grantedPerm] = useAndroidPermissions();
