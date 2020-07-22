@@ -42,3 +42,10 @@ const [width, height] = useWindowResize();
 ```ts
 // Example of usage
 // const [waitingPerm, grantedPerm] = useAndroidPermissions();
+```
+
+* [useAndroidBackNavigationEffect](https://gist.github.com/ivanstnsk/4525294c1fb7ada32dbf8bcccf9676ad)
+```ts
+// const printMessage = () => console.log('back button pressed');
+// useAndroidBackNavigationEffect(printMessage);
+```
